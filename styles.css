@@ -1,0 +1,23 @@
+/* Custom CSS */
+body {
+    padding-top: 60px;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #bc977f;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.card-deck .card {
+    margin-bottom: 20px;
+}
+
+.modal-body img {
+    height: 200px;
+    object-fit: cover;
+}
